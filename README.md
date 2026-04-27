@@ -6,7 +6,7 @@ ADD ABSTRACT
 ## Running the code
 To reproduce the environment, clone the repository and navigate to the folder:
 ```
-git clone https://github.com/authoranonymous27/code-submission.git
+git clone https://github.com/authoranon6/code-submission.git
 cd code-submission
 ```
 Then, instantiate the environment:
